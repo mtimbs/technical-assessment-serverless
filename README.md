@@ -31,7 +31,7 @@ The requirements of this service are as follows
 #### Notes
  - This project has been built with TypeScript. You are welcome to use plain Javascript in your implementation.
  - You are not expected to finish all of these tasks.
- - Once you have converted requirements into an architecture diagram focus on doing 1-2 parts well, rather than trying to get something done for each part
+ - Once you have converted requirements into an architecture diagram focus on implementing 1 or 2 parts of that architecture well, rather than trying to get something done for each part
  - There are no time restrictions on this task and we value your time - spend enough time to show your ability but don't sink too much time into it.
  - You will have an opportunity to walk through your code and talk about what you've done and why. You'll also get to talk about how you would implement the things you did not get time to do.
 
