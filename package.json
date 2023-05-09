@@ -19,7 +19,7 @@
     "@dazn/lambda-powertools-sns-client": "^1.12.0",
     "@dazn/lambda-powertools-sqs-client": "^1.12.0",
     "aws-lambda": "^1.0.5",
-    "aws-sdk": "^2.627.0",
+    "aws-sdk": "^2.1374.0",
     "serverless": "^1.66.0",
     "source-map-support": "^0.5.10",
     "uuid": "^3.4.0"
